@@ -1,0 +1,35 @@
+
+    {
+        "UserName": "input[placeholder='Username']",
+        "Password": "input[placeholder='Password']",
+        "LoginBtn": "button[type='submit']",
+        "LabelMsg": ".oxd-text.oxd-text--h6.oxd-topbar-header-breadcrumb-module",
+        "AlertMsg": ".oxd-text.oxd-text--p.oxd-alert-content-text",
+        "Admin":"body > div:nth-child(3) > div:nth-child(1) > div:nth-child(1) > aside:nth-child(1) > nav:nth-child(1) > div:nth-child(2) > ul:nth-child(2) > li:nth-child(1) > a:nth-child(1) > span:nth-child(2)",
+        "AdminPage":".oxd-text.oxd-text--h6.oxd-topbar-header-breadcrumb-module",
+        "Drop1": ":nth-child(2) > .oxd-input-group > :nth-child(2) > .oxd-select-wrapper > .oxd-select-text > .oxd-select-text--after > .oxd-icon",
+        "Drop3": ":nth-child(2) > .oxd-input-group > :nth-child(2) > .oxd-select-wrapper > .oxd-select-text > .oxd-select-text-input",
+        "Check1":".oxd-icon.bi-check.oxd-checkbox-input-icon",
+        "Radio1":":nth-child(6) > .oxd-main-menu-item",        
+        "Msgelm":"body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(3) > div:nth-child(1) > div:nth-child(6) > div:nth-child(1) > button:nth-child(1) > i:nth-child(1)",
+        "Mouse1":":nth-child(2) > .oxd-main-menu-item > .oxd-text",
+        "Mouse2":"li[class='oxd-topbar-body-nav-tab --parent'] span[class='oxd-topbar-body-nav-tab-item']",
+        "Mouse3":"li[class='--active oxd-topbar-body-nav-tab --parent'] li:nth-child(1) a:nth-child(1)",
+        "Search1":"input[placeholder='Search']",
+        "Search2":".oxd-text.oxd-text--span.oxd-main-menu-item--name",
+        "Logout1":".oxd-icon.bi-caret-down-fill.oxd-userdropdown-icon",
+        "Logout2":"body > div:nth-child(3) > div:nth-child(1) > div:nth-child(1) > header:nth-child(2) > div:nth-child(1) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(1) > ul:nth-child(2) > li:nth-child(4) > a:nth-child(1)",
+        "Logout3":".oxd-text.oxd-text--h5.orangehrm-login-title",
+        "File1":":nth-child(6) > .oxd-main-menu-item > .oxd-text",
+        "File2":".oxd-button > .oxd-icon",
+        "File3":".oxd-file-button",
+        "File4":".orangehrm-attachment > .orangehrm-card-container > .oxd-form > .oxd-form-actions > .oxd-button--secondary",
+        "Forgot1":".oxd-text.oxd-text--p.orangehrm-login-forgot-header",
+        "Forgot2":"input[placeholder='Username']",
+        "Forgot3":"button[type='submit']",
+        "Forgot4":".oxd-text.oxd-text--h6.orangehrm-forgot-password-title"
+
+       
+
+
+    }

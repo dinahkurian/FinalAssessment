@@ -1,0 +1,19 @@
+{
+    
+        "username":"Admin",
+        "password": "admin123",
+        "expected": "Dashboard",
+        "wronguser":"asdf",
+        "wrongpass":"admin",
+        "alert":"Invalid credentials",
+        "admin":"Admin",
+        "value": "Admin",
+        "Msg":"Error",
+       "Searchval":"Leave",
+       "Log1":"Logout",
+       "Log2":"Login",
+       "Msg2":"Success",
+       "Alert2":"Admin",
+       "Alert3":"Reset Password link sent successfully"
+           
+}

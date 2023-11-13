@@ -1,0 +1,87 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1699873931358' stop='1699874106796'>
+    <name>OrangeHRM Testcases</name>
+    <title>OrangeHRM Testcases</title>
+    <test-cases>
+        <test-case start='1699873931359' status='passed' stop='1699873939911'>
+            <name>T1: open URL</name>
+            <title>T1: open URL</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699873939946' status='passed' stop='1699873958044'>
+            <name>T2: Login with valid</name>
+            <title>T2: Login with valid</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699873958110' status='passed' stop='1699873967395'>
+            <name>T3: Login with invalid</name>
+            <title>T3: Login with invalid</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699873967435' status='passed' stop='1699873990516'>
+            <name>T4: Forgot Password</name>
+            <title>T4: Forgot Password</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699873990573' status='passed' stop='1699874012435'>
+            <name>T5: Admin with drop down</name>
+            <title>T5: Admin with drop down</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699874012495' status='passed' stop='1699874036082'>
+            <name>T6: File upload</name>
+            <title>T6: File upload</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699874036137' status='passed' stop='1699874057853'>
+            <name>T7: alert window</name>
+            <title>T7: alert window</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699874057920' status='passed' stop='1699874077220'>
+            <name>T8: Mouse acticity</name>
+            <title>T8: Mouse acticity</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699874077258' status='passed' stop='1699874089435'>
+            <name>T9: Search Bar</name>
+            <title>T9: Search Bar</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699874089478' status='passed' stop='1699874106795'>
+            <name>T10: logout</name>
+            <title>T10: logout</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
